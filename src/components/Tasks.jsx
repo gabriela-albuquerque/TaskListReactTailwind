@@ -1,4 +1,4 @@
-function Tasks() {
+function Tasks(props) {
   return <h1>Tasks</h1>;
 }
 
